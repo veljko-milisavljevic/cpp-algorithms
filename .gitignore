@@ -1,0 +1,21 @@
+# Build output
+*.exe
+*.out
+!tests/**/*.out
+*.o
+*.obj
+a.out
+build/
+bin/
+obj/
+
+# Editors / IDEs
+.vscode/
+.idea/
+*.cbp
+*.layout
+*.depend
+
+# OS
+.DS_Store
+Thumbs.db
